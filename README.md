@@ -55,12 +55,6 @@ Mi piace costruire software solido dietro le quinte — dalla gestione della con
 > **Stack:** `C#` • `Entity Framework Core` • `SQL Server` • `UI/UX Iteration`  
 > *(Repository privata — progetto realizzato per sfida aziendale)*
 
-<!-- Sostituisci il percorso qui sotto con il link o il file della tua GIF -->
-<div align="center">
-  <img src="./assets/gameverse-home.gif" alt="GameVerse Home Preview" width="750" />
-  <br>
-  <em>⬆️ Anteprima della Home di GameVerse (inserisci qui la GIF della tua applicazione)</em>
-</div>
 
 **Il mio ruolo e cosa mi ha insegnato questo progetto:**
 - **Backend & Persistenza Dati:** Mi sono occupato principalmente della gestione dei preferiti e della loro persistenza su database relazionale utilizzando **SQL Server** ed **Entity Framework Core**.

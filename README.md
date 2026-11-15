@@ -4,13 +4,15 @@
 
 *"Il modo in cui lavorerai, rispecchierà la tua vita fuori"*
 
-## 👨‍💻 Chi sono
+## 👨‍💻 Chi sono e la mia storia
 
-Sono uno sviluppatore software in formazione presso **42 Firenze**, dove affronto quotidianamente sfide di programmazione a basso livello, algoritmica, architetture di sistema e intelligenza artificiale attraverso un approccio pratico e *peer-to-peer*.
+Il mio percorso nel mondo del software non è stato una linea dritta, ed è proprio questo il mio punto di forza. 
 
-Parallelamente al percorso in 42, frequento un **corso serale di Telecomunicazioni**: una scelta nata per unire lo sviluppo software a una comprensione solida delle reti, dei protocolli di comunicazione e delle infrastrutture hardware.
+Dopo i primi studi tecnici in Informatica e Telecomunicazioni a Sanremo, ho trascorso diversi anni lavorando in contesti operativi, dinamici e ad alto ritmo — dalla grande distribuzione (tre anni in Lidl) alla ristorazione tra la Liguria e la Francia, fino alle consegne e al contatto diretto con il pubblico. Quegli anni lontano dalla scrivania mi hanno insegnato cosa significano davvero l'affidabilità quotidiana, il rispetto dei tempi, la gestione della pressione e il lavoro di squadra quando le cose si fanno intense. È proprio da quelle esperienze che nasce la frase che guida il mio approccio: *"Il modo in cui lavorerai, rispecchierà la tua vita fuori"*.
 
-Mi piace costruire software solido dietro le quinte — dalla gestione della concorrenza in **C** alla persistenza dei dati con **C# / SQL Server** e allo sviluppo in **Python** — senza perdere di vista l'esperienza reale dell'utente davanti allo schermo.
+Nel 2025 ho deciso di scommettere tutto su me stesso e tornare alla mia vera passione: ho lasciato la Liguria e mi sono trasferito a Firenze per iniziare il percorso di ingegneria del software presso **42 Firenze**. 
+
+Oggi divido le mie giornate tra le sfide di programmazione *peer-to-peer* in 42, il lavoro e un **corso serale di Telecomunicazioni**, una scelta voluta per unire lo sviluppo software a una comprensione solida delle reti, dei protocolli di comunicazione e delle infrastrutture. Mi piace costruire software robusto dietro le quinte — dalla concorrenza in **C** alla persistenza dei dati con **C# / SQL Server** fino a **Python** e all'**AI** — portando nel codice la stessa concretezza che ho imparato fuori.
 
 * 🔭 **Attualmente al lavoro su:** `RAG against the machine` (sistemi RAG e LLM) e `NetPractice` (architetture di rete e routing TCP/IP) presso 42 Firenze.
 * 📡 **Formazione parallela:** Studente al corso serale di **Informatica e Telecomunicazioni**.
@@ -20,10 +22,12 @@ Mi piace costruire software solido dietro le quinte — dalla gestione della con
 ## 🛠️ Tech Stack & Cosa ho imparato alla 42
 
 ### Linguaggi & Database
+
 * **Linguaggi:** `C` • `Python` • `C++` • `C#` • `SQL` • `Bash`
 * **Database & ORM:** `SQL Server` • `Entity Framework Core`
 
 ### Competenze sviluppate nel percorso 42
+
 * **System & Concurrent Programming (C / Unix):** Gestione manuale della memoria, chiamate di sistema Unix, creazione e gestione di processi, IPC (pipe e segnali), programmazione concorrente con POSIX Threads (`pthreads`), Mutex, variabili di condizione e algoritmi di scheduling (`FIFO`/`EDF`) per prevenire *deadlock* e *starvation*.
 * **Algoritmica & Strutture Dati:** Progettazione e ottimizzazione di algoritmi su array, liste concatenate, stack e grafi; algoritmi di ordinamento vincolati (`push_swap`), generazione di labirinti e *pathfinding* concorrente multi-agente (`Fly-in`).
 * **AI & Data Engineering (Python):** Architetture *Object-Oriented* e programmazione funzionale avanzata, gestione ambienti e dipendenze (`Poetry`/`pip`), validazione rigorosa dei dati con `Pydantic`, integrazione di Large Language Models, *Function Calling* con *Constrained Decoding* per garantire output JSON tipizzati (`Call Me Maybe`) e sistemi RAG (`RAG against the machine`).
@@ -74,13 +78,15 @@ Mi piace costruire software solido dietro le quinte — dalla gestione della con
 
 *"The way you work will reflect your life outside"*
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me & My Story
 
-I am a Software Engineering student at **42 Firenze**, tackling low-level programming, algorithms, system architecture, and artificial intelligence daily through a hands-on, peer-to-peer methodology.
+My path into software engineering hasn't been a straight line — and that is precisely my greatest strength.
 
-Alongside my curriculum at 42, I attend an **evening program in Telecommunications**: a path chosen to combine software development with a solid understanding of computer networks, communication protocols, and hardware infrastructure.
+After my initial technical studies in Computer Science and Telecommunications in Sanremo, I spent several years working in fast-paced, hands-on operational environments — from three years in large-scale retail at Lidl to hospitality and restaurant kitchens between Italy and France, as well as delivery and customer-facing roles. Those years away from a desk taught me what daily reliability, working under pressure, meeting tight deadlines, and real teamwork actually look like. That experience is where my personal motto comes from: *"The way you work will reflect your life outside"*.
 
-I enjoy building reliable software behind the scenes — from managing concurrency in **C** to data persistence with **C# / SQL Server** and development in **Python** — without losing sight of the actual user experience on screen.
+In 2025, I decided to go all-in on my true passion: I left Liguria and moved to Florence to join **42 Firenze** as a Software Engineering student.
+
+Today, I balance my days between intensive peer-to-peer coding challenges at 42, work, and an **evening program in Telecommunications** — a deliberate choice to pair software development with a strong foundation in computer networks, communication protocols, and infrastructure. I enjoy building reliable software behind the scenes — from concurrency in **C** to data persistence with **C# / SQL Server**, all the way to **Python** and **AI** — bringing the same grounded work ethic into my code.
 
 * 🔭 **Currently working on:** `RAG against the machine` (RAG systems and LLMs) and `NetPractice` (network architectures and TCP/IP routing) at 42 Firenze.
 * 📡 **Parallel Education:** Evening student in **Computer Science and Telecommunications**.
@@ -90,10 +96,12 @@ I enjoy building reliable software behind the scenes — from managing concurren
 ## 🛠️ Tech Stack & What I Learned at 42
 
 ### Languages & Databases
+
 * **Languages:** `C` • `Python` • `C++` • `C#` • `SQL` • `Bash`
 * **Databases & ORM:** `SQL Server` • `Entity Framework Core`
 
 ### Core Skills Developed at 42
+
 * **System & Concurrent Programming (C / Unix):** Manual memory management, Unix system calls, process creation and management, IPC (pipes and signals), and concurrent programming with POSIX Threads (`pthreads`), Mutexes, condition variables, and scheduling algorithms (`FIFO`/`EDF`) to prevent deadlocks and resource starvation.
 * **Algorithms & Data Structures:** Designing and optimizing algorithms across arrays, linked lists, stacks, and graphs; constrained sorting algorithms (`push_swap`), procedural maze generation, and multi-agent concurrent pathfinding (`Fly-in`).
 * **AI & Data Engineering (Python):** Object-Oriented architectures and advanced functional programming, environment and package management (`Poetry`/`pip`), strict data validation with `Pydantic`, Large Language Model integration, *Function Calling* with *Constrained Decoding* for guaranteed typed JSON outputs (`Call Me Maybe`), and RAG architectures (`RAG against the machine`).
